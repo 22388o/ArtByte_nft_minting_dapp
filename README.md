@@ -2,9 +2,8 @@
 
 
 
-# HashLips NFT minting dapp 🔥
+# ArtByte NFT minting dapp 🔥
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
